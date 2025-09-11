@@ -3,7 +3,7 @@
 # print("good afternoon")
 
 
-
+# new changes
 def speak (message="Hello") :
     print(message)
 def eat():
